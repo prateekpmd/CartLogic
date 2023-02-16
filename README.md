@@ -1,0 +1,1 @@
+Shopping cart is a piece of e-commerce module on a web server that allows visitors to have an site to select items for eventual purchase. It allows online shopping customers to accumulate a list of items for purchase. At the point of sale, it typically calculates a total for the order, including price and items in the cart.
